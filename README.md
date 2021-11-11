@@ -6,7 +6,7 @@
 🍏 &nbsp;I am a person of simple tastes.\
 💻 &nbsp;I like everything related to the world of software development.
 
-<img alt="Night" src="https://c.tenor.com/ppxPb7400C4AAAAC/chill-night.gif" align="right"/>
+<img alt="Night" src="https://c.tenor.com/ppxPb7400C4AAAAC/chill-night.gif" align="right" height="200"/>
 
 ## 🛠 Tech Stack
 
@@ -25,5 +25,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/javiandres016">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiandres016&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiandres016&layout=compact&langs_count=8&theme=algolia"/>
 </a>
