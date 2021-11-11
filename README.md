@@ -1,4 +1,4 @@
-# ![https://gecndev.com](https://raw.githubusercontent.com/gcalvetty/gcalvetty/master/gecndev_emote.png) Hi, I'm Javier Andres
+# ![https://gecndev.com](https://github.com/javiandres016/javiandres016/blob/main/lol-emote.png) Hi, I'm Javier Andres
 
 ### Developer In Development
 
