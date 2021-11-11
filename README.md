@@ -1,26 +1,29 @@
-# ![https://gecndev.com](https://github.com/javiandres016/javiandres016/blob/main/lol-emote.png) Hi, I'm Javier Andres
+<h1 align="center">Hi, I'm Javier Andres</h1>
 
-### Developer In Development
+### 👨🏻‍💻 &nbsp;About Me
 
-## Skills:
+✍️ &nbsp;I am a self-taught developer.\
+🍏 &nbsp;I am a person of simple tastes.\
+💻 &nbsp;I like everything related to the world of software development.
 
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
+<img alt="Night" src="https://c.tenor.com/ppxPb7400C4AAAAC/chill-night.gif" align="right"/>
 
-#### Frameworks, Platforms and Libraries:
+## 🛠 Tech Stack
 
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black)]()
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)]()
+### ⚙️ &nbsp;GitHub Analytics
 
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)]()
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&labelColor=black)]()
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&labelColor=black)]()
-
-#### IDEs/Editors:
-
-[![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&labelColor=black)]()
-
-#### Version Control:
-
-[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&labelColor=black)]()
+<a href="https://github.com/javiandres016">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiandres016&layout=compact&langs_count=8&theme=algolia"/>
+</a>
