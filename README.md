@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Javier Andres</h1>
+<samp>
+<h1>Hi, I'm Andres</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✍️ &nbsp;I am a self-taught developer.\
-🍏 &nbsp;I am a person of simple tastes.\
-💻 &nbsp;I like everything related to the world of software development.
-
-<img alt="Night" src="https://c.tenor.com/ppxPb7400C4AAAAC/chill-night.gif" align="right" height="200"/>
+✍️ &nbsp;I'm a self-taught developer.\
+🍏 &nbsp;I'm a person of simple tastes.\
+💻 &nbsp;I like everything related to the world of software development.\
+✍️ &nbsp;I'm a Developer in development.
+</samp>
 
 ## 🛠 Tech Stack
 
@@ -25,5 +26,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/javiandres016">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiandres016&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javiandres016&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiandres016&theme=algolia&layout=compact&langs_count=8"/>
 </a>
